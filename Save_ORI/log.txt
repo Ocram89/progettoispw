@@ -1,0 +1,240 @@
+[12/02/2014 - 12:20:42] (T3-GESTORE) Inserito un nuovo prodotto: Panna
+[12/02/2014 - 12:20:42] (T3-GESTORE) Inserito un nuovo prodotto: Refosco
+[12/02/2014 - 12:20:42] (T3-GESTORE) Inserito un nuovo prodotto: Duca San Felice
+[12/02/2014 - 12:20:42] (T3-GESTORE) Inserito un nuovo prodotto: Lete
+[12/02/2014 - 12:20:42] (T3-GESTORE) Inserito un nuovo prodotto: Morellino di Scansano
+[12/02/2014 - 12:20:42] (T3-GESTORE) Inserito un nuovo prodotto: Sant'Anna
+[12/02/2014 - 12:20:42] (T3-GESTORE) Inserito un nuovo prodotto: Gamberi
+[12/02/2014 - 12:20:42] (T3-GESTORE) Inserito un nuovo prodotto: Tortellini
+[12/02/2014 - 12:20:42] (T3-GESTORE) Inserito un nuovo prodotto: Mele
+[12/02/2014 - 12:20:42] (T3-GESTORE) Inserito un nuovo prodotto: Pere
+[12/02/2014 - 12:20:42] (T3-GESTORE) Inserito un nuovo prodotto: Torta
+[12/02/2014 - 12:20:42] (T4-FORNITORE) Depositati: 3 di Refosco - (giacenza: 3) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Refosco - Valore: 10.5
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Refosco - Valore: -10.5
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Refosco - Valore: 24.0
+[12/02/2014 - 12:20:42] (T5-FORNITORE) Depositati: 3 di Duca San Felice - (giacenza: 3) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Duca San Felice - Valore: 10.5
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Duca San Felice - Valore: -10.5
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Duca San Felice - Valore: 30.0
+[12/02/2014 - 12:20:42] (T5-FORNITORE) Depositati: 10 di Lete - (giacenza: 10) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Lete - Valore: 8.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Lete - Valore: -8.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Lete - Valore: 30.0
+[12/02/2014 - 12:20:42] (T5-FORNITORE) Depositati: 3 di Morellino di Scansano - (giacenza: 3) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Morellino di Scansano - Valore: 10.5
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Morellino di Scansano - Valore: -10.5
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Morellino di Scansano - Valore: 27.0
+[12/02/2014 - 12:20:42] (T5-FORNITORE) Depositati: 10 di Sant'Anna - (giacenza: 10) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Sant'Anna - Valore: 5.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Sant'Anna - Valore: -5.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Sant'Anna - Valore: 25.0
+[12/02/2014 - 12:20:42] (T5-FORNITORE) Depositati: 5 di Gamberi - (giacenza: 5) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Gamberi - Valore: 22.5
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Gamberi - Valore: -22.5
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Gamberi - Valore: 40.0
+[12/02/2014 - 12:20:42] (T5-FORNITORE) Depositati: 3 di Tortellini - (giacenza: 3) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Tortellini - Valore: 3.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Tortellini - Valore: -3.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Tortellini - Valore: 18.0
+[12/02/2014 - 12:20:42] (T5-FORNITORE) Depositati: 10 di Mele - (giacenza: 10) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Mele - Valore: 2.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Mele - Valore: -2.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Mele - Valore: 10.0
+[12/02/2014 - 12:20:42] (T5-FORNITORE) Depositati: 10 di Pere - (giacenza: 10) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Pere - Valore: 2.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Pere - Valore: -2.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Pere - Valore: 15.0
+[12/02/2014 - 12:20:42] (T5-FORNITORE) Depositati: 5 di Torta - (giacenza: 5) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Torta - Valore: 5.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Torta - Valore: -5.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Torta - Valore: 15.0
+[12/02/2014 - 12:20:42] (T5-FORNITORE) Depositati: 5 di Panna - (giacenza: 5) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Panna - Valore: 4.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Panna - Valore: -4.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Panna - Valore: 12.5
+[12/02/2014 - 12:20:42] (T5-FORNITORE) Depositati: 3 di Refosco - (giacenza: 6) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Refosco - Valore: 21.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Refosco - Valore: -21.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Refosco - Valore: 48.0
+[12/02/2014 - 12:20:42] (T4-FORNITORE) Depositati: 3 di Duca San Felice - (giacenza: 6) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Duca San Felice - Valore: 21.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Duca San Felice - Valore: -21.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Duca San Felice - Valore: 60.0
+[12/02/2014 - 12:20:42] (T4-FORNITORE) Depositati: 10 di Lete - (giacenza: 20) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Lete - Valore: 16.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Lete - Valore: -16.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Lete - Valore: 60.0
+[12/02/2014 - 12:20:42] (T4-FORNITORE) Depositati: 3 di Morellino di Scansano - (giacenza: 6) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Morellino di Scansano - Valore: 21.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Morellino di Scansano - Valore: -21.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Morellino di Scansano - Valore: 54.0
+[12/02/2014 - 12:20:42] (T4-FORNITORE) Depositati: 10 di Sant'Anna - (giacenza: 20) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Sant'Anna - Valore: 10.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Sant'Anna - Valore: -10.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Sant'Anna - Valore: 50.0
+[12/02/2014 - 12:20:42] (T4-FORNITORE) Depositati: 5 di Gamberi - (giacenza: 10) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Gamberi - Valore: 45.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Gamberi - Valore: -45.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Gamberi - Valore: 80.0
+[12/02/2014 - 12:20:42] (T4-FORNITORE) Depositati: 3 di Tortellini - (giacenza: 6) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Tortellini - Valore: 6.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Tortellini - Valore: -6.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Tortellini - Valore: 36.0
+[12/02/2014 - 12:20:42] (T4-FORNITORE) Depositati: 10 di Mele - (giacenza: 20) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Mele - Valore: 4.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Mele - Valore: -4.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Mele - Valore: 20.0
+[12/02/2014 - 12:20:42] (T4-FORNITORE) Depositati: 10 di Pere - (giacenza: 20) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Pere - Valore: 4.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Pere - Valore: -4.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Pere - Valore: 30.0
+[12/02/2014 - 12:20:42] (T4-FORNITORE) Depositati: 5 di Torta - (giacenza: 10) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Torta - Valore: 10.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Torta - Valore: -10.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Torta - Valore: 30.0
+[12/02/2014 - 12:20:42] (T4-FORNITORE) Depositati: 5 di Panna - (giacenza: 10) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Spesa - Prodotto: Panna - Valore: 8.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Guadagno - Prodotto: Panna - Valore: -8.0
+[12/02/2014 - 12:20:42] (T3-GESTORE) Aggiornato Indice: Valore Magazzino - Prodotto: Panna - Valore: 25.0
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Erogati: 1 di Panna - (giacenza: 9) 
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Panna - Valore: 2.5
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Panna - Valore: -5.5
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Panna - Valore: 22.5
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Erogati: 2 di Refosco - (giacenza: 4) 
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Refosco - Valore: 16.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Refosco - Valore: -5.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Refosco - Valore: 32.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Erogati: 3 di Duca San Felice - (giacenza: 3) 
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Duca San Felice - Valore: 30.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Duca San Felice - Valore: 9.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Duca San Felice - Valore: 30.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Erogati: 6 di Lete - (giacenza: 14) 
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Lete - Valore: 18.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Lete - Valore: 2.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Lete - Valore: 42.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Erogati: 1 di Morellino di Scansano - (giacenza: 5) 
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Morellino di Scansano - Valore: 9.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Morellino di Scansano - Valore: -12.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Morellino di Scansano - Valore: 45.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Erogati: 3 di Sant'Anna - (giacenza: 17) 
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Sant'Anna - Valore: 7.5
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Sant'Anna - Valore: -2.5
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Sant'Anna - Valore: 42.5
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Erogati: 4 di Gamberi - (giacenza: 6) 
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Gamberi - Valore: 32.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Gamberi - Valore: -13.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Gamberi - Valore: 48.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Erogati: 4 di Tortellini - (giacenza: 2) 
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Tortellini - Valore: 24.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Tortellini - Valore: 18.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Tortellini - Valore: 12.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Erogati: 5 di Mele - (giacenza: 15) 
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Mele - Valore: 5.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Mele - Valore: 1.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Mele - Valore: 15.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Erogati: 6 di Pere - (giacenza: 14) 
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Pere - Valore: 9.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Pere - Valore: 5.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Pere - Valore: 21.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Erogati: 3 di Torta - (giacenza: 7) 
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Torta - Valore: 9.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Torta - Valore: -1.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Torta - Valore: 21.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Erogati: 1 di Panna - (giacenza: 8) 
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Panna - Valore: 5.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Panna - Valore: -3.0
+[12/02/2014 - 12:20:42] (T6-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Panna - Valore: 20.0
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Erogati: 2 di Refosco - (giacenza: 2) 
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Refosco - Valore: 32.0
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Refosco - Valore: 11.0
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Refosco - Valore: 16.0
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Erogati: 3 di Duca San Felice - (giacenza: 0) 
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Duca San Felice - Valore: 60.0
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Duca San Felice - Valore: 39.0
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Duca San Felice - Valore: 0.0
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Erogati: 6 di Lete - (giacenza: 8) 
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Lete - Valore: 36.0
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Lete - Valore: 20.0
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Lete - Valore: 24.0
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Erogati: 1 di Morellino di Scansano - (giacenza: 4) 
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Morellino di Scansano - Valore: 18.0
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Morellino di Scansano - Valore: -3.0
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Morellino di Scansano - Valore: 36.0
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Erogati: 3 di Sant'Anna - (giacenza: 14) 
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Sant'Anna - Valore: 15.0
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Sant'Anna - Valore: 5.0
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Sant'Anna - Valore: 35.0
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Erogati: 4 di Gamberi - (giacenza: 2) 
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Gamberi - Valore: 64.0
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Gamberi - Valore: 19.0
+[12/02/2014 - 12:20:42] (T7-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Gamberi - Valore: 16.0
+[12/02/2014 - 12:25:08] (q) Inserito un nuovo prodotto: Barolo
+[12/02/2014 - 12:25:37] (q) Depositati: 3 di Barolo - (giacenza: 3) con Data di Scadenza: 12/02/2014
+[12/02/2014 - 12:25:37] (q) Aggiornato Indice: Spesa - Prodotto: Barolo - Valore: 15.0
+[12/02/2014 - 12:25:37] (q) Aggiornato Indice: Guadagno - Prodotto: Barolo - Valore: -15.0
+[12/02/2014 - 12:25:37] (q) Aggiornato Indice: Valore Magazzino - Prodotto: Barolo - Valore: 45.0
+[12/02/2014 - 12:25:37] (q) Aggiornato Indice: Spesa Evitabile - Prodotto: Barolo - Valore: 0.0
+[12/02/2014 - 12:26:28] (q) Erogati: 1 di Barolo - (giacenza: 2) 
+[12/02/2014 - 12:26:28] (q) Aggiornato Indice: Ricavo - Prodotto: Barolo - Valore: 15.0
+[12/02/2014 - 12:26:28] (q) Aggiornato Indice: Guadagno - Prodotto: Barolo - Valore: 0.0
+[12/02/2014 - 12:26:28] (q) Aggiornato Indice: Valore Magazzino - Prodotto: Barolo - Valore: 30.0
+[14/04/2014 - 14:20:33] (T5-FORNITORE) Depositati: 3 di Refosco - (giacenza: 5) con Data di Scadenza: 14/04/2014
+[14/04/2014 - 14:20:33] (T6-FORNITORE) Depositati: 3 di Refosco - (giacenza: 8) con Data di Scadenza: 14/04/2014
+[14/04/2014 - 14:27:13] (q) Inserito un nuovo prodotto: Spigola al sale
+[14/04/2014 - 14:30:21] (q) Depositati: 2 di Spigola al sale - (giacenza: 2) con Data di Scadenza: 14/04/2014
+[14/04/2014 - 14:30:21] (q) Aggiornato Indice: Spesa - Prodotto: Spigola al sale - Valore: 40.0
+[14/04/2014 - 14:30:21] (q) Aggiornato Indice: Guadagno - Prodotto: Spigola al sale - Valore: -40.0
+[14/04/2014 - 14:30:21] (q) Aggiornato Indice: Valore Magazzino - Prodotto: Spigola al sale - Valore: 100.0
+[14/04/2014 - 14:30:21] (q) Aggiornato Indice: Spesa Evitabile - Prodotto: Spigola al sale - Valore: 0.0
+[14/04/2014 - 14:30:37] (q) Erogati: 1 di Spigola al sale - (giacenza: 1) 
+[14/04/2014 - 14:30:37] (q) Aggiornato Indice: Ricavo - Prodotto: Spigola al sale - Valore: 50.0
+[14/04/2014 - 14:30:37] (q) Aggiornato Indice: Guadagno - Prodotto: Spigola al sale - Valore: 10.0
+[14/04/2014 - 14:30:37] (q) Aggiornato Indice: Valore Magazzino - Prodotto: Spigola al sale - Valore: 50.0
+[14/04/2014 - 14:30:56] (q) Erogati: 1 di Spigola al sale - (giacenza: 0) 
+[14/04/2014 - 14:30:56] (q) Aggiornato Indice: Ricavo - Prodotto: Spigola al sale - Valore: 100.0
+[14/04/2014 - 14:30:56] (q) Aggiornato Indice: Guadagno - Prodotto: Spigola al sale - Valore: 60.0
+[14/04/2014 - 14:30:56] (q) Aggiornato Indice: Valore Magazzino - Prodotto: Spigola al sale - Valore: 0.0
+[14/04/2014 - 14:31:06] (q) Aggiornato Indice: Mancato Guadagno - Prodotto: Spigola al sale - Valore: 100.0
+[14/04/2014 - 14:32:02] (q) Depositati: 1 di Spigola al sale - (giacenza: 1) con Data di Scadenza: 15/04/2014
+[14/04/2014 - 14:32:02] (q) Aggiornato Indice: Spesa - Prodotto: Spigola al sale - Valore: 60.0
+[14/04/2014 - 14:32:02] (q) Aggiornato Indice: Guadagno - Prodotto: Spigola al sale - Valore: 40.0
+[14/04/2014 - 14:32:02] (q) Aggiornato Indice: Valore Magazzino - Prodotto: Spigola al sale - Valore: 50.0
+[14/04/2014 - 14:32:02] (q) Aggiornato Indice: Spesa Evitabile - Prodotto: Spigola al sale - Valore: 0.0
+[14/04/2014 - 14:32:30] (q) Aggiornato Indice: Mancato Guadagno - Prodotto: Spigola al sale - Valore: 150.0
+[14/04/2014 - 14:32:30] (q) Aggiornato Indice: Ricavo - Prodotto: Spigola al sale - Valore: 150.0
+[14/04/2014 - 14:32:30] (q) Aggiornato Indice: Guadagno - Prodotto: Spigola al sale - Valore: 90.0
+[14/04/2014 - 14:32:30] (q) Aggiornato Indice: Valore Magazzino - Prodotto: Spigola al sale - Valore: 0.0
+[14/04/2014 - 14:32:30] (q) Aggiornato Indice: Spesa Evitabile - Prodotto: Spigola al sale - Valore: 0.0
+[14/04/2014 - 14:38:38] (T5-FORNITORE) Depositati: 3 di Refosco - (giacenza: 11) con Data di Scadenza: 14/04/2014
+[14/04/2014 - 14:38:38] (T6-FORNITORE) Depositati: 3 di Refosco - (giacenza: 14) con Data di Scadenza: 14/04/2014
+
+[14/04/2014 - 17:38:24] (T6-FORNITORE) Depositati: 3 di Refosco - (giacenza: 17) con Data di Scadenza: 14/04/2014
+[14/04/2014 - 17:38:24] (T5-FORNITORE) Depositati: 3 di Refosco - (giacenza: 20) con Data di Scadenza: 14/04/2014
+
+[16/04/2014 - 16:55:09] (T5-FORNITORE) Depositati: 3 di Refosco - (giacenza: 23) con Data di Scadenza: 16/04/2014
+[16/04/2014 - 16:55:09] (T6-FORNITORE) Depositati: 3 di Refosco - (giacenza: 26) con Data di Scadenza: 16/04/2014
+[16/04/2014 - 17:00:16] (q) Aggiornato Indice: Mancato Guadagno - Prodotto: Morellino di Scansano - Valore: 0.0
+[16/04/2014 - 17:00:37] (q) Ritirati Scaduti: 1 di Morellino di Scansano (giacenza: 3)[16/04/2014 - 17:00:37] (q) Aggiornato Indice: Valore Magazzino - Prodotto: Morellino di Scansano - Valore: 36.0
+[16/04/2014 - 17:00:37] (q) Aggiornato Indice: Spesa Evitabile - Prodotto: Morellino di Scansano - Valore: 3.5
+[16/04/2014 - 17:00:53] (q) Depositati: 10 di Morellino di Scansano - (giacenza: 13) con Data di Scadenza: 16/04/2014
+[16/04/2014 - 17:00:53] (q) Aggiornato Indice: Spesa - Prodotto: Morellino di Scansano - Valore: 56.0
+[16/04/2014 - 17:00:53] (q) Aggiornato Indice: Guadagno - Prodotto: Morellino di Scansano - Valore: -38.0
+[16/04/2014 - 17:00:53] (q) Aggiornato Indice: Valore Magazzino - Prodotto: Morellino di Scansano - Valore: 126.0
+[16/04/2014 - 17:00:53] (q) Aggiornato Indice: Spesa Evitabile - Prodotto: Morellino di Scansano - Valore: 3.5
+[16/04/2014 - 17:01:05] (q) Aggiornato Indice: Ricavo - Prodotto: Morellino di Scansano - Valore: 27.0
+[16/04/2014 - 17:01:05] (q) Aggiornato Indice: Guadagno - Prodotto: Morellino di Scansano - Valore: -29.0
+[16/04/2014 - 17:01:05] (q) Aggiornato Indice: Valore Magazzino - Prodotto: Morellino di Scansano - Valore: 117.0
+[16/04/2014 - 17:01:05] (q) Aggiornato Indice: Mancato Guadagno - Prodotto: Morellino di Scansano - Valore: 0.0
+[16/04/2014 - 17:01:05] (q) Aggiornato Indice: Spesa Evitabile - Prodotto: Morellino di Scansano - Valore: 3.5
+[16/04/2014 - 17:01:06] (q) Erogati: 1 di Morellino di Scansano - (giacenza: 12) 
+[16/04/2014 - 17:05:02] (q) Inserito un nuovo prodotto: Brunello di Montalcino 1996
+[16/04/2014 - 17:05:44] (q) Depositati: 20 di Brunello di Montalcino 1996 - (giacenza: 20) con Data di Scadenza: 16/04/2014
+[16/04/2014 - 17:05:44] (q) Aggiornato Indice: Spesa - Prodotto: Brunello di Montalcino 1996 - Valore: 500.0
+[16/04/2014 - 17:05:44] (q) Aggiornato Indice: Guadagno - Prodotto: Brunello di Montalcino 1996 - Valore: -500.0
+[16/04/2014 - 17:05:44] (q) Aggiornato Indice: Valore Magazzino - Prodotto: Brunello di Montalcino 1996 - Valore: 1000.0
+[16/04/2014 - 17:05:44] (q) Aggiornato Indice: Spesa Evitabile - Prodotto: Brunello di Montalcino 1996 - Valore: 0.0
+[16/04/2014 - 17:06:02] (q) Erogati: 1 di Brunello di Montalcino 1996 - (giacenza: 19) 
+[16/04/2014 - 17:06:02] (q) Aggiornato Indice: Ricavo - Prodotto: Brunello di Montalcino 1996 - Valore: 50.0
+[16/04/2014 - 17:06:02] (q) Aggiornato Indice: Guadagno - Prodotto: Brunello di Montalcino 1996 - Valore: -450.0
+[16/04/2014 - 17:06:02] (q) Aggiornato Indice: Valore Magazzino - Prodotto: Brunello di Montalcino 1996 - Valore: 950.0

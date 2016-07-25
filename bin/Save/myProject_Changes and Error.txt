@@ -1,0 +1,184 @@
+
+
+Variazioni ----------------------------------------------------------------------------------
+MDM - Divisione in Pakage -------------------------
+ 
+//my -----------
+import util.*;
+import exception.*;
+import boundary.*;
+import control.*;
+import entity.*;
+import thread.*;
+
+---------------------------------------------------------------------------------------------
+ERROR ---------------------------------------------------
+	CLASSE: Controllore --------------------
+	// MDM - package - Nella divisione in package non era più visibile nei confini.
+	// protected void salvaArticoli() throws SerializzazioneException 
+	public void salvaArticoli() throws SerializzazioneException 
+	
+---------------------------------------------------------------------------------------------
+WARNING ---------------------------------------------------
+
+ Multiple markers at this line 
+	- JComboBox is a raw type. References to generic type JComboBox<E> should be parameterized
+	- Type safety: The constructor JComboBox(Object[]) belongs to the raw type JComboBox. 
+          References to generic type JComboBox<E> should be parameterized
+
+Verificare:
+	//http://download.oracle.com/javase/tutorial/uiswing/examples/components/index.html#ComboBoxDemo
+---------------------------------------------------------------------------------------------
+
+ERROR ---------------------------------------------------
+   CLASSE: Controllore --------------------
+	
+	// MDM - package - Nella divisione in package non era più visibile nei confini.
+	//void remove(IDEsterno id) throws DirittiException, ProdottoException, IDEsternoException, ArithmeticException, GiacenzaNonNullaException, DimensioneMenuException
+	public void remove(IDEsterno id) throws DirittiException, ProdottoException, IDEsternoException, ArithmeticException, GiacenzaNonNullaException, DimensioneMenuException
+	
+   IMPATTI:
+	- ControlloreAmministrazione:	(metodo non presente);
+	- ControlloreDeposito:		(metodo non presente);
+	- ControlloreErogazione:	(metodo non presente);
+	- ControlloreGestione:		Metodo già public;
+	- ControlloreLogin:		(metodo non presente);
+
+---------------------------------------------------------------------------------------------
+Errore Variabile istanza non visibile da due controllori.
+
+   CLASSE: Portata -----------------------------------
+	// MDM - Portata.MappaDataScadenza - Inserito metodo get -----
+	protected TreeMap <Integer, InfoProdotto> MappaDataScadenza = new TreeMap <Integer, InfoProdotto>();
+	
+	...
+	
+	// MDM - Portata.MappaDataScadenza - Trasformata in privata e inserito metodo get -----
+	public TreeMap <Integer, InfoProdotto> getMappaDataScadenza()
+	{
+		return MappaDataScadenza;
+	}
+
+    IMPATTI:
+	CLASSE:ControlloreGestione, ControlloreErogazione ---------------
+	// MDM - Portata.MappaDataScadenza - Trasformata in privata e inserito metodo get -----
+	//MappaDataScadenzaTemp = mappaProdotti.get(k.toString()).getMappaDataScadenza;
+---------------------------------------------------------------------------------------------
+ERRORE - La Classe ControlloreErogazione accede al campo giacenza. Creato metodo getGiacenza.
+	
+	CLASSE: Portata ---------------
+	//MDM - Creato medodo getGiacenza() -----------------------
+	public int getGiacenza()
+	{
+		return giacenza;
+	}
+
+   IMPATTI:
+	CLASSE: ControlloreErogazione ---------
+	//MDM - Utilizzo metodo getGiacenza() -----
+	//if (mappaProdotti.get(k.toString()).giacenza==0)
+	if (mappaProdotti.get(k.toString()).getGiacenza()==0)
+	...
+	//MDM - Utilizzo metodo getGiacenza() -----
+	//while (mappaProdotti.get(k.toString()).giacenza==0)
+	while (mappaProdotti.get(k.toString()).getGiacenza()==0)
+
+---------------------------------------------------------------------------------------------
+Warning - Classe Portata - Elimino metodo giacenza(), sostituito da getGiacenza() che avevo creato.
+
+  IMPATTI:
+	CLASSE:ControlloreDeposito ------------------
+	//MDM - Elimino metodo giacenza(), sostituito da getGiacenza() che ho creato.
+	//return mappaProdotti.get(k.toString()).giacenza();
+	return mappaProdotti.get(k.toString()).getGiacenza();
+
+	CLASSE:ControlloreErogazione ----------------
+	//MDM - Elimino metodo giacenza(), sostituito da getGiacenza() che ho creato.
+	//if (quantita > mappaProdotti.get(k.toString()).giacenza())  
+	if (quantita > mappaProdotti.get(k.toString()).getGiacenza()) 
+	...
+	//MDM - Elimino metodo giacenza(), sostituito da getGiacenza() che ho creato.
+	//while (quantita > mappaProdotti.get(k.toString()).giacenza())  
+	while (quantita > mappaProdotti.get(k.toString()).getGiacenza())
+	...
+	//MDM - Elimino metodo giacenza(), sostituito da getGiacenza() che ho creato.
+	//return mappaProdotti.get(k.toString()).giacenza();  
+	return mappaProdotti.get(k.toString()).getGiacenza();
+ 
+
+	CLASSE:ControlloreGestione --------------------
+	//MDM - Elimino metodo giacenza(), sostituito da getGiacenza() che ho creato.
+	//if (mappaProdotti.get(k.toString()).giacenza() != 0)  
+	if (mappaProdotti.get(k.toString()).getGiacenza() != 0)
+
+	CLASSE:ControlloreVisualizzazioneMenu ---------
+	//MDM - Elimino metodo giacenza(), sostituito da getGiacenza() che ho creato.
+	//return mappaProdotti.get(k.toString()).giacenza();
+	return mappaProdotti.get(k.toString()).getGiacenza();
+---------------------------------------------------------------------------------------------
+Exception - Class.forName occorre inserire i path dei packag (util, entity, ...)
+
+   CLASSE: CostantiRuolo -------------------
+	//MDM - Class.forName occorre inserire i path dei packag (util, entity, ...) --------
+	final public static String ControlloreVisualizzazioneMenu = "control.ControlloreVisualizzazioneMenu";
+	final public static String ControlloreErogazione = "control.ControlloreErogazione";
+	final public static String ControlloreDeposito = "control.ControlloreDeposito";
+	final public static String ControlloreGestione = "control.ControlloreGestione";
+	final public static String ControlloreAmministrazione = "control.ControlloreAmministrazione";
+
+   CLASSE: ControlloreLogin -------------------
+	//MDM - Class.forName occorre inserire i path dei packag (util, entity, ...) --------
+	Class primoParametroObj = Class.forName("util.Utente");---------------------------------------------------------------------------------------------
+
+   CLASSE: ControlloreGestione -------------------
+	//MDM - Class.forName occorre inserire i path dei package (util, entity, ...) --------
+	Class<?> primoParametroObj = Class.forName("util.IDEsterno");
+	Class<?> secondoParametroObj = Class.forName("util.Orologio");
+	...
+	//MDM - occorre inserire i path dei package. Sostituito il metodo finale .getSimpleName() con .getName()
+	//superClasseProdottoCorrente = Class.forName(nomeTipoProdotto).getSuperclass().getSimpleName();
+	superClasseProdottoCorrente = Class.forName(nomeTipoProdotto).getSuperclass().getName();
+	
+	
+   CLASSE: ConfineGestoreIndici -------------------
+	//MDM - occorre inserire i path dei package. Sostituito il metodo finale .getSimpleName() con .getName()
+	//superClasseProdottoCorrente = Class.forName(nomeTipoProdotto).getSuperclass().getSimpleName();
+	superClasseProdottoCorrente = Class.forName(nomeTipoProdotto).getSuperclass().getName();
+	...
+	//MDM - occorre inserire i path dei package. Sostituito il metodo finale .getSimpleName() con .getName()
+	//superClasseCorrente = Class.forName(CostantiClassiAlimentari.ClasseAlimentareFinale[j]).getSuperclass().getSimpleName();
+	superClasseCorrente = Class.forName(CostantiClassiAlimentari.ClasseAlimentareFinale[j]).getSuperclass().getName();
+		
+	
+   CLASSE: Controllore, ControllolreDeposito, ControlloreErogazione, ControlloreGestione -------------------
+	//MDM - occorre inserire i path dei package. Sostituito il metodo finale .getSimpleName() con .getName()
+	//superClasseProdottoCorrente = Class.forName(nomeTipoProdotto).getSuperclass().getSimpleName();
+	superClasseProdottoCorrente = Class.forName(nomeTipoProdotto).getSuperclass().getName();
+	...
+	//MDM - occorre inserire i path dei package. Sostituito il metodo finale .getSimpleName() con .getName()
+	//if(superClasseProdottoCorrente!="Portata")//se = Portata, allora profondità gerarchia =2
+	if(superClasseProdottoCorrente!="entity.Portata")//se = Portata, allora profondità gerarchia =2
+	
+---------------------------------------------------------------------------------------------
+Aggiunto nuovo array DescrClasseAlimentareFinale per la visualizzazione testo delle classi alimentari ----
+
+   CLASSE: CostantiClassiAlimentari ---------
+	//MDM - DescrClasseAlimentareFinale Aggiunta per la gestione sulle interfacca ----
+	final static public String[] DescrClasseAlimentareFinale = 
+	{
+		"Altro", "Acqua", "BriccoFrutta", "Soda", "Vino", "PrimoPesce", "PrimoCarne", "PrimoAltro", "SecondoCarne", "SecondoPesce", "Dolce", "Frutta"
+	};
+
+   IMPATTI:
+	CLASSE: ConfineGestoreAggiuntaProdotti -----
+	//MDM - Aggiunto nuovo array DescrClasseAlimentareFinale per la visualizzazione testo delle classi alimentari
+	//tendinaClassiAlimentariFinali = new JComboBox(CostantiClassiAlimentari.ClasseAlimentareFinale);
+	tendinaClassiAlimentariFinali = new JComboBox(CostantiClassiAlimentari.DescrClasseAlimentareFinale);
+
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+
+
+

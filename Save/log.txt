@@ -1,0 +1,65 @@
+[25/09/2015 - 11:49:42] (T5-CASSIERE) Erogati: 1 di Panna - (giacenza: 35) 
+[25/09/2015 - 11:49:42] (T5-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Panna - Valore: 50.0
+[25/09/2015 - 11:49:42] (T5-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Panna - Valore: 6.0
+[25/09/2015 - 11:49:42] (T5-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Panna - Valore: 87.5
+[25/09/2015 - 11:49:42] (T5-CASSIERE) Erogati: 2 di Refosco - (giacenza: 100) 
+[25/09/2015 - 11:49:42] (T5-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Refosco - Valore: 256.0
+[25/09/2015 - 11:49:42] (T5-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Refosco - Valore: -206.0
+[25/09/2015 - 11:49:42] (T5-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Refosco - Valore: 800.0
+[25/09/2015 - 11:49:42] (T5-CASSIERE) Aggiornato Indice: Mancato Guadagno - Prodotto: Refosco - Valore: 0.0
+[25/09/2015 - 11:49:42] (T5-CASSIERE) Aggiornato Indice: Spesa Evitabile - Prodotto: Refosco - Valore: 0.0
+[25/09/2015 - 11:49:42] (T3-FORNITORE) Depositati: 3 di Refosco - (giacenza: 103) con Data di Scadenza: 25/09/2015
+[25/09/2015 - 11:49:42] (T4-FORNITORE) Depositati: 3 di Refosco - (giacenza: 106) con Data di Scadenza: 25/09/2015
+[25/09/2015 - 11:49:42] (T6-CASSIERE) Erogati: 1 di Panna - (giacenza: 34) 
+[25/09/2015 - 11:49:42] (T6-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Panna - Valore: 52.5
+[25/09/2015 - 11:49:42] (T6-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Panna - Valore: 8.5
+[25/09/2015 - 11:49:42] (T6-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Panna - Valore: 85.0
+[25/09/2015 - 11:49:42] (T6-CASSIERE) Erogati: 2 di Refosco - (giacenza: 104) 
+[25/09/2015 - 11:49:42] (T6-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Refosco - Valore: 272.0
+[25/09/2015 - 11:49:42] (T6-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Refosco - Valore: -211.0
+[25/09/2015 - 11:49:42] (T6-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Refosco - Valore: 832.0
+[25/09/2015 - 11:49:42] (T6-CASSIERE) Aggiornato Indice: Mancato Guadagno - Prodotto: Refosco - Valore: 0.0
+[25/09/2015 - 11:49:42] (T6-CASSIERE) Aggiornato Indice: Spesa Evitabile - Prodotto: Refosco - Valore: 0.0
+[25/09/2015 - 12:10:13] (T4-FORNITORE) Depositati: 3 di Refosco - (giacenza: 105) con Data di Scadenza: 25/09/2015
+[25/09/2015 - 12:10:13] (T6-CASSIERE) Erogati: 1 di Panna - (giacenza: 35) 
+[25/09/2015 - 12:10:13] (T6-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Panna - Valore: 50.0
+[25/09/2015 - 12:10:13] (T6-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Panna - Valore: 6.0
+[25/09/2015 - 12:10:13] (T6-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Panna - Valore: 87.5
+[25/09/2015 - 12:10:13] (T6-CASSIERE) Erogati: 2 di Refosco - (giacenza: 103) 
+[25/09/2015 - 12:10:13] (T6-CASSIERE) Aggiornato Indice: Ricavo - Prodotto: Refosco - Valore: 256.0
+[25/09/2015 - 12:10:13] (T6-CASSIERE) Aggiornato Indice: Guadagno - Prodotto: Refosco - Valore: -216.5
+[25/09/2015 - 12:10:13] (T6-CASSIERE) Aggiornato Indice: Valore Magazzino - Prodotto: Refosco - Valore: 824.0
+[25/09/2015 - 12:10:13] (T6-CASSIERE) Aggiornato Indice: Mancato Guadagno - Prodotto: Refosco - Valore: 0.0
+[25/09/2015 - 12:10:13] (T6-CASSIERE) Aggiornato Indice: Spesa Evitabile - Prodotto: Refosco - Valore: 0.0
+[24/11/2015 - 16:21:31] (q) Aggiornato Indice: Mancato Guadagno - Prodotto: Morellino di Scansano - Valore: 0.0
+[24/11/2015 - 16:22:16] (q) Aggiornato Indice: Mancato Guadagno - Prodotto: Morellino di Scansano - Valore: 0.0
+[24/11/2015 - 16:25:47] (q) Aggiornato Indice: Mancato Guadagno - Prodotto: Refosco - Valore: 0.0
+[24/11/2015 - 16:25:58] (q) Depositati: 2 di Refosco - (giacenza: 104) con Data di Scadenza: 24/11/2015
+[24/11/2015 - 16:25:58] (q) Aggiornato Indice: Spesa - Prodotto: Refosco - Valore: 469.0
+[24/11/2015 - 16:25:58] (q) Aggiornato Indice: Guadagno - Prodotto: Refosco - Valore: -229.0
+[24/11/2015 - 16:25:58] (q) Aggiornato Indice: Valore Magazzino - Prodotto: Refosco - Valore: 832.0
+[24/11/2015 - 16:25:58] (q) Aggiornato Indice: Spesa Evitabile - Prodotto: Refosco - Valore: 0.0
+[24/11/2015 - 16:26:20] (q) Aggiornato Indice: Ricavo - Prodotto: Refosco - Valore: 248.0
+[24/11/2015 - 16:26:20] (q) Aggiornato Indice: Guadagno - Prodotto: Refosco - Valore: -221.0
+[24/11/2015 - 16:26:20] (q) Aggiornato Indice: Valore Magazzino - Prodotto: Refosco - Valore: 824.0
+[24/11/2015 - 16:26:20] (q) Aggiornato Indice: Mancato Guadagno - Prodotto: Refosco - Valore: 0.0
+[24/11/2015 - 16:26:20] (q) Aggiornato Indice: Spesa Evitabile - Prodotto: Refosco - Valore: 0.0
+[24/11/2015 - 16:26:22] (q) Erogati: 1 di Refosco - (giacenza: 103) 
+
+[24/11/2015 - 22:38:35] (q) Aggiornato Indice: Mancato Guadagno - Prodotto: Duca San Felice - Valore: 0.0
+[24/11/2015 - 22:45:40] (q) Aggiornato Indice: Mancato Guadagno - Prodotto: Gamberi - Valore: 0.0
+[27/11/2015 - 16:40:56] (T4-FORNITORE) Depositati: 3 di Refosco - (giacenza: 106) con Data di Scadenza: 27/11/2015
+[27/11/2015 - 16:49:44] (q) Aggiornato Indice: Mancato Guadagno - Prodotto: Tortellini - Valore: 0.0
+[27/11/2015 - 16:51:23] (q) Depositati: 10 di Tortellini - (giacenza: 17) con Data di Scadenza: 28/11/2015
+[27/11/2015 - 16:51:23] (q) Aggiornato Indice: Spesa - Prodotto: Tortellini - Valore: 57.0
+[27/11/2015 - 16:51:23] (q) Aggiornato Indice: Guadagno - Prodotto: Tortellini - Valore: 183.0
+[27/11/2015 - 16:51:23] (q) Aggiornato Indice: Valore Magazzino - Prodotto: Tortellini - Valore: 102.0
+[27/11/2015 - 16:51:23] (q) Aggiornato Indice: Spesa Evitabile - Prodotto: Tortellini - Valore: 0.0
+[27/11/2015 - 16:52:07] (q) Aggiornato Indice: Ricavo - Prodotto: Tortellini - Valore: 270.0
+[27/11/2015 - 16:52:07] (q) Aggiornato Indice: Guadagno - Prodotto: Tortellini - Valore: 213.0
+[27/11/2015 - 16:52:07] (q) Aggiornato Indice: Valore Magazzino - Prodotto: Tortellini - Valore: 72.0
+[27/11/2015 - 16:52:07] (q) Aggiornato Indice: Mancato Guadagno - Prodotto: Tortellini - Valore: 0.0
+[27/11/2015 - 16:52:07] (q) Aggiornato Indice: Spesa Evitabile - Prodotto: Tortellini - Valore: 0.0
+[27/11/2015 - 16:52:10] (q) Erogati: 5 di Tortellini - (giacenza: 12) 
+[27/11/2015 - 16:53:11] (q) Ritirati Scaduti: 7 di Tortellini (giacenza: 5)[27/11/2015 - 16:53:11] (q) Aggiornato Indice: Valore Magazzino - Prodotto: Tortellini - Valore: 72.0
+[27/11/2015 - 16:53:11] (q) Aggiornato Indice: Spesa Evitabile - Prodotto: Tortellini - Valore: 7.0
